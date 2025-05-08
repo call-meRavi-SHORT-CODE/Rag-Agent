@@ -1,0 +1,11 @@
+langchain 
+langchain-community
+faiss-cpu
+langchain-groq
+langchain-ollama
+
+
+# pip install -qU "langchain[google-genai]"
+# pip install -qU "langchain[groq]"
+
+#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 ---- groq
